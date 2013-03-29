@@ -1,3 +1,6 @@
+/* You could change the font */
+$baseFontFamily:Oxygen;
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
 @import 'bootstrap';
 
 body {
@@ -6,7 +9,7 @@ body {
 @import 'bootstrap-responsive';
 
 .footer{
-	margin-top:150px;
+	margin-top:15px;
 	color: $grayLight;
 	a {
 		color: $gray;
